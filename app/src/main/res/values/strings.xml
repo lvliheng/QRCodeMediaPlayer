@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QRCodeMediaPlayer</string>
+    <string name="media_player">media player</string>
+    <string name="video_view">video view</string>
+    <string name="browser">browser</string>
+    <string name="scan">scan</string>
+
+    <string name="permission_camera_tip">请添加\"相机\"权限</string>
+    <string name="permission_gallery_tip">请添加\"存储空间\"权限</string>
+    <string name="permission_location_tip">请添加\"位置\"权限</string>
+    <string name="permission_write_external_tip">您没有给予存储权限，可能无法正常接收推送消息</string>
+    <string name="permission_dial_tip">请添加\"电话\"权限</string>
+    <string name="permission_default_tip">请添加\"相关\"权限</string>
+</resources>
